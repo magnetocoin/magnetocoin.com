@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'wolverins';
+    src: url('wolverins.eot');
+    src: url('wolverins.eot?#iefix') format('embedded-opentype'),
+        url('wolverins.woff2') format('woff2'),
+        url('wolverins.woff') format('woff'),
+        url('wolverins.ttf') format('truetype'),
+        url('wolverins.svg#wolverins') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
